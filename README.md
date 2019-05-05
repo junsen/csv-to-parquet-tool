@@ -1,2 +1,9 @@
 # csv-to-parquet-tool
-csv data convert to parquet format
+Convert data in csv to Parquet format file
+- load csv data
+- read schema for avro file
+- construct avro data with csv data
+- output to parquet file
+
+
+
